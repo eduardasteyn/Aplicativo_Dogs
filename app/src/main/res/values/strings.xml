@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RacasDogs</string>
+    <string name="https">https://dog.ceo/api/breeds/list/all </string>
+</resources>
